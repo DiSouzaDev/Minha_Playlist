@@ -10,4 +10,4 @@ A proposta do projeto é que alguém possa te conhecer através daquilo que voc�
 
 Pensei muito para conseguir separar minhas músicas favoritas, baseei-me não só pelo meu gosto, mas também por como ela me marcou, e pelo quanto ela me representava em algum aspécto pessoal.
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="20"> [Clique aqui para visualizar meu projeto no Figma](https://www.figma.com/proto/mTAhvsQOuUu9lyvJZjg3Zi/Playlist?node-id=0%3A1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A4)
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="20" style="user-select = none;"> [Clique aqui para visualizar meu projeto no Figma](https://www.figma.com/proto/mTAhvsQOuUu9lyvJZjg3Zi/Playlist?node-id=0%3A1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A4)
