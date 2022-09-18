@@ -1,0 +1,2 @@
+# Minha_Playlist
+A ideia é que alguém possa te conhecer através daquilo que você ouve.  Esse álbum precisa ter uma pagina inicial e cada música será uma página separada, com letra e (se você quiser) um vídeo com um clipe ou montagem da música. O álbum não precisa ser de um artista só e nem toda música tem letra.  A ideia é que esse álbum seja um trabalho completo, então queremos ver o wireframe, o protótipo e as telas prontas.
